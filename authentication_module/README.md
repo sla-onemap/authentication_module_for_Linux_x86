@@ -21,7 +21,7 @@ Before evoking...
 
 2.Evoke on your executable file for your access token. This is an example of a return.
 
-![Step 2](https://github-images.onemap.sg/ubuntu_run.png)
+![Step 2](https://github-images.onemap.sg/ubuntu_run.PNG)
 
 									
 
